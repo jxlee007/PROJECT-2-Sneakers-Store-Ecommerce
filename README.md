@@ -16,6 +16,10 @@ Welcome to Sneakers Store E-commerce, a modern and stylish e-commerce website fo
 
 - **Responsive Design:** The website is designed to be responsive, ensuring a consistent and enjoyable user experience across various devices.
 
+## Screenshots
+
+![Screenshot 1](img/1.png)
+
 ## Getting Started
 
 To get started with Sneakers Store E-commerce, follow these steps:
